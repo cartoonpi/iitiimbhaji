@@ -2995,7 +2995,7 @@ textarea.form-control-lg {
   display: inline-block;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #ad0527;
   text-align: center;
   text-decoration: none;
   vertical-align: middle;
@@ -3030,8 +3030,8 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #0d6efd;
-  border-color: #0d6efd;
+  background-color: #ad0527;
+  border-color: #ad0527;
 }
 .btn-primary:hover {
   color: #fff;
@@ -4053,6 +4053,7 @@ textarea.form-control-lg {
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
   font-size: 1.25rem;
+  font-family: "Lucida Handwriting";
   text-decoration: none;
   white-space: nowrap;
 }
